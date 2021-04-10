@@ -8,6 +8,7 @@
 기능.
 
 1. 통계정보 가져오기.
+
    1-1. 환자
       o. 전체 환자 수  (/statistic/person/total)
       o. 성별 환자 수  (/statistic/person/gender) 
