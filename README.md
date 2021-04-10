@@ -34,10 +34,12 @@
       o. 방문시 연령대별 방문 수  (/statistic/visit/ages)
 
 
+
+
    
 2. 테이블 별 concept_id들의 정보 조회 
 
-   2-1 조회기능(/concept_info/<table>>/<column>)
+   2-1 조회기능(/concept_info/&lt;table&gt;/&lt;column&gt;)
    
       table과 column에 적절한 값을 입력하여 조회한다
       
@@ -59,9 +61,13 @@
    
    
    
+   
+   
+   
+   
 3. 테이블 row 조회
 
-   3-1 조회 기능(get_row/<table>)
+   3-1 조회 기능(get_row/&lt;table&gt;)
    
       table에 적절한 값을 입력하여 조회한다
       
